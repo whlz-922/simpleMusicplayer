@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/startup.jpg</file>
+        <file>images/MainWindowIcon.jpg</file>
+        <file>files/dream.txt</file>
+        <file>images/BackGround.jpg</file>
+    </qresource>
+</RCC>
